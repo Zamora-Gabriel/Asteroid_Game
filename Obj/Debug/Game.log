@@ -1,0 +1,27 @@
+﻿  Actor.cpp
+  ActorFactory.cpp
+  ActorHandle.cpp
+  Asteroid.cpp
+  AsteroidManager.cpp
+C:\Users\usuario\Desktop\PG20Gabriel_AdvOOP_A3\ArcadeGame\Include\MathUtils.h(11,30): warning C4244: '/=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\usuario\Desktop\PG20Gabriel_AdvOOP_A3\ArcadeGame\Include\MathUtils.h(12,30): warning C4244: '/=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\usuario\Desktop\PG20Gabriel_AdvOOP_A3\ArcadeGame\Source\AsteroidManager.cpp(39,23): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\usuario\Desktop\PG20Gabriel_AdvOOP_A3\ArcadeGame\Source\AsteroidManager.cpp(48,47): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\usuario\Desktop\PG20Gabriel_AdvOOP_A3\ArcadeGame\Source\AsteroidManager.cpp(49,50): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Bullet.cpp
+  ColliderComponent.cpp
+  ComponentBase.cpp
+  EventSystem.cpp
+  Game.cpp
+  GameUI.cpp
+  InputManager.cpp
+  Main.cpp
+  Ship.cpp
+  TransformComponent.cpp
+  World.cpp
+C:\Users\usuario\Desktop\PG20Gabriel_AdvOOP_A3\ArcadeGame\Source\World.cpp(150,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  Generando código...
+EngineX_d.lib(Engine.obj) : warning LNK4099: no se encontró PDB 'EngineX.pdb' con 'EngineX_d.lib(Engine.obj)' o en 'C:\Users\usuario\Desktop\PG20Gabriel_AdvOOP_A3\ArcadeGame\bin\EngineX.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+EngineX_d.lib(RenderPacket.obj) : warning LNK4099: no se encontró PDB '' con 'EngineX_d.lib(RenderPacket.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
+EngineX_d.lib(System.obj) : warning LNK4099: no se encontró PDB 'EngineX.pdb' con 'EngineX_d.lib(System.obj)' o en 'C:\Users\usuario\Desktop\PG20Gabriel_AdvOOP_A3\ArcadeGame\bin\EngineX.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Game.vcxproj -> C:\Users\usuario\Desktop\PG20Gabriel_AdvOOP_A3\ArcadeGame\bin\Game.exe
